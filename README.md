@@ -18,10 +18,12 @@ The dataset used was originally part of an online internship project that sparke
   - Stock Volatility vs. Nifty 50
 
 ### 2. Deep Dive into Hindustan Unilever
-- VWAP Trends (Volume Weighted Average Price)
-- Daily % Change & Close Price Trends
-- Yearly Trade Volume Analysis
-- Overall Performance & Price Movement Overview
+- **Time Span**: 2017–2019 (2 years of financial data)
+- **Visuals**:
+  - VWAP Trends (Volume Weighted Average Price)
+  - Daily % Change & Close Price Trends
+  - Yearly Trade Volume Analysis
+  - Overall Performance & Price Movement Overview
 
 ---
 
