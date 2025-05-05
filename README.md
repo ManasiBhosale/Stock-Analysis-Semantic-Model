@@ -70,17 +70,17 @@ In addition to the individual stock data, a table with **Nifty 50** data is incl
 
 The relationships between the stock tables (Infosys, ITC, L&T, Reliance, TCS) and the Nifty 50 table are visualized below. The connections are made to ensure accurate and consistent data for the analysis, including the creation of custom tables that are essential for the semantic model.
 
-![Relationships & Custom Tables](images/relationships_and_custom_tables.png)
+![Relationships & Custom Tables](https://github.com/ManasiBhosale/stock-analysis-semantic-model/blob/6c0035bf5e1ae53548340ce4a2145e5ff0db0dc0/images_bi/Table_Relationships.png)
 
 ---
 
 ## DashBoard
 
-
+![DashBoard](https://github.com/ManasiBhosale/stock-analysis-semantic-model/blob/6c0035bf5e1ae53548340ce4a2145e5ff0db0dc0/images_bi/Stock_Dashboard.png)
 
 ## Live Demo
 
-> ▶️ [Click here to view the interactive Power BI dashboard](#) *(link will go here if published to web)*
+![Dashboard Preview](https://github.com/ManasiBhosale/stock-analysis-semantic-model/blob/6c0035bf5e1ae53548340ce4a2145e5ff0db0dc0/images_bi/DashBoard_GIF.gif)
 
 ---
 
