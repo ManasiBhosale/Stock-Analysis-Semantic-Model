@@ -16,7 +16,7 @@
 
 This project showcases a comprehensive **Power BI dashboard** built using financial data from five major Indian companies over a two-year period. It was developed as part of my exploration into Power BI's modeling and visualization capabilities and earned me the **“Design a Semantic Model in Power BI”** badge.
 
-The dataset used was originally part of an online internship project that sparked my interest in **machine learning**, **feature engineering**, and **data visualization**. Revisiting and reusing this dataset allowed me to reflect on how far I’ve come—and apply what I’ve learned in an engaging and professional way.
+The dataset used was originally part of an online internship project that sparked my interest in **machine learning**, **feature engineering**, and **data visualization**. Revisiting and reusing this dataset allowed me to reflect on how far I’ve come and apply what I’ve learned in an engaging and professional way.
 
 ---
 
