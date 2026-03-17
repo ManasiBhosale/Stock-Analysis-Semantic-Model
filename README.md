@@ -3,7 +3,7 @@
   <img
     src="https://github.com/ManasiBhosale/Stock-Analysis-Semantic-Model/blob/d548669cfacc6f83cbf61615575978c8d10cac2c/images_bi/Decreasing%20Stock%20Market%20Sticker%20by%20EmojiVid.gif"
     alt="Stock Market"
-    width="80"
+    width="60"
     align="absmiddle"
     style="position: relative; top: -30px;"
   />
