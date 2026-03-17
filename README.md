@@ -1,4 +1,3 @@
-# Stock Market Dashboard with Power BI
 <h1 style="display: flex; align-items: center; gap: 10px; margin: 0;">
   Stock Market Dashboard with Power BI
   <img
